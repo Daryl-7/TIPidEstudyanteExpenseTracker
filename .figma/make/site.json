@@ -1,5 +1,6 @@
 {
   "description": "Helps Filipino college students track weekly expenses, manage allowances, set savings goals, and build healthy money habits with friendly guidance.",
+  "language": "en",
   "robots": {
     "index": false
   },
